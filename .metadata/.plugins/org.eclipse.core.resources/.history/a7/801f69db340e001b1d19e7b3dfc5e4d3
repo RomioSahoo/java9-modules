@@ -1,0 +1,8 @@
+package com.moduleThree;
+
+public class moduleThreeClass {
+	 public int age() {
+		 return 22;
+	 }
+
+}

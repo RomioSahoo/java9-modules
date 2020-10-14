@@ -1,0 +1,14 @@
+package com.moduleTwo.basic;
+
+import com.moduleOne.basic.moduleOneClass;
+
+public class moduleTwoClass {
+
+	public static void main(String[] args) {
+		
+		moduleOneClass moc=new moduleOneClass();
+		System.out.println(moc.name());
+
+	}
+
+}
